@@ -1,0 +1,3 @@
+This project was completed in ITCS-3112, a course on Design and Implementation of Object-Oriented Systems. During this course, I learned to complete the project in different stages.
+
+This course was simple, yet very helpful in learning how to stage parts of a project before completing them. It also helped me realize that I enjoy programming in Object-Oriented languages.
